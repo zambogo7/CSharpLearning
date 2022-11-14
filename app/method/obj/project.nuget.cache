@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1dtwR8I1xqYg2t0iD1jV7g6QaYgV3JDmBvUdwRajEh+lmsc6/bn+9qYeyvhG5EPZMdbWKuI/f66zejJ/ToW4mQ==",
+  "success": true,
+  "projectFilePath": "/home/zeddy/Desktop/Metaverse/app/method/method.csproj",
+  "expectedPackageFiles": [
+    "/home/zeddy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

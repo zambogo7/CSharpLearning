@@ -1,0 +1,15 @@
+/home/zeddy/Desktop/Metaverse/app/abstraction/obj/Debug/net6.0/abstraction.csproj.AssemblyReference.cache
+/home/zeddy/Desktop/Metaverse/app/abstraction/obj/Debug/net6.0/abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeddy/Desktop/Metaverse/app/abstraction/obj/Debug/net6.0/abstraction.AssemblyInfoInputs.cache
+/home/zeddy/Desktop/Metaverse/app/abstraction/obj/Debug/net6.0/abstraction.AssemblyInfo.cs
+/home/zeddy/Desktop/Metaverse/app/abstraction/obj/Debug/net6.0/abstraction.csproj.CoreCompileInputs.cache
+/home/zeddy/Desktop/Metaverse/app/abstraction/bin/Debug/net6.0/abstraction
+/home/zeddy/Desktop/Metaverse/app/abstraction/bin/Debug/net6.0/abstraction.deps.json
+/home/zeddy/Desktop/Metaverse/app/abstraction/bin/Debug/net6.0/abstraction.runtimeconfig.json
+/home/zeddy/Desktop/Metaverse/app/abstraction/bin/Debug/net6.0/abstraction.dll
+/home/zeddy/Desktop/Metaverse/app/abstraction/bin/Debug/net6.0/abstraction.pdb
+/home/zeddy/Desktop/Metaverse/app/abstraction/obj/Debug/net6.0/abstraction.dll
+/home/zeddy/Desktop/Metaverse/app/abstraction/obj/Debug/net6.0/refint/abstraction.dll
+/home/zeddy/Desktop/Metaverse/app/abstraction/obj/Debug/net6.0/abstraction.pdb
+/home/zeddy/Desktop/Metaverse/app/abstraction/obj/Debug/net6.0/abstraction.genruntimeconfig.cache
+/home/zeddy/Desktop/Metaverse/app/abstraction/obj/Debug/net6.0/ref/abstraction.dll

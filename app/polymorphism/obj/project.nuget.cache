@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f3yqL5HKpeiGR7NBC9LEAskjr61Sd0KGWWc6oAjzUp0GmcsXVkKzu9fC0yO6JiUa8rKL+sKwP4KAichVLM4E+A==",
+  "success": true,
+  "projectFilePath": "/home/zeddy/Desktop/Metaverse/app/polymorphism/polymorphism.csproj",
+  "expectedPackageFiles": [
+    "/home/zeddy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+0LhMXM452LByfnzvmCYk6jN55TOrwZjg95G7+maXyyPhYTovELFosNubUOW+hGQRSvXuxJ6GdXxmyvWhhZTg==",
+  "success": true,
+  "projectFilePath": "/home/zeddy/Desktop/Metaverse/app/abstraction/abstraction.csproj",
+  "expectedPackageFiles": [
+    "/home/zeddy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fG8z9Itz8xigTV6Slvnte/puk1udmM4WW/UfI6uTalCEKDOUbKiWlxlnnIJS7X1YwS7No7l7e35weDZpQT8SA==",
+  "success": true,
+  "projectFilePath": "/home/zeddy/Desktop/Metaverse/app/accessmodifier/accessmodifier.csproj",
+  "expectedPackageFiles": [
+    "/home/zeddy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

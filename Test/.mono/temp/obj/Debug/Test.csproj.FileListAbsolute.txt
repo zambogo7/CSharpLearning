@@ -1,0 +1,9 @@
+/home/zeddy/Desktop/Metaverse/Test/.mono/temp/bin/Debug/Test.dll
+/home/zeddy/Desktop/Metaverse/Test/.mono/temp/bin/Debug/Test.pdb
+/home/zeddy/Desktop/Metaverse/Test/.mono/temp/obj/Debug/Test.csproj.AssemblyReference.cache
+/home/zeddy/Desktop/Metaverse/Test/.mono/temp/obj/Debug/Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeddy/Desktop/Metaverse/Test/.mono/temp/obj/Debug/Test.AssemblyInfoInputs.cache
+/home/zeddy/Desktop/Metaverse/Test/.mono/temp/obj/Debug/Test.AssemblyInfo.cs
+/home/zeddy/Desktop/Metaverse/Test/.mono/temp/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/home/zeddy/Desktop/Metaverse/Test/.mono/temp/obj/Debug/Test.dll
+/home/zeddy/Desktop/Metaverse/Test/.mono/temp/obj/Debug/Test.pdb

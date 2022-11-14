@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4lsK+JclP1NbwUH36ltkxImQ80/+0Fmnv2OYSfWKwfc5repoXIKi9Ad1lcLoNujMjMQyk9NlwGGeyM6hqzyOjQ==",
+  "success": true,
+  "projectFilePath": "/home/zeddy/Desktop/Metaverse/app/exception/exception.csproj",
+  "expectedPackageFiles": [
+    "/home/zeddy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/zeddy/Desktop/Metaverse/app/enum/bin/Debug/net6.0/enum
+/home/zeddy/Desktop/Metaverse/app/enum/bin/Debug/net6.0/enum.deps.json
+/home/zeddy/Desktop/Metaverse/app/enum/bin/Debug/net6.0/enum.runtimeconfig.json
+/home/zeddy/Desktop/Metaverse/app/enum/bin/Debug/net6.0/enum.dll
+/home/zeddy/Desktop/Metaverse/app/enum/bin/Debug/net6.0/enum.pdb
+/home/zeddy/Desktop/Metaverse/app/enum/obj/Debug/net6.0/enum.csproj.AssemblyReference.cache
+/home/zeddy/Desktop/Metaverse/app/enum/obj/Debug/net6.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeddy/Desktop/Metaverse/app/enum/obj/Debug/net6.0/enum.AssemblyInfoInputs.cache
+/home/zeddy/Desktop/Metaverse/app/enum/obj/Debug/net6.0/enum.AssemblyInfo.cs
+/home/zeddy/Desktop/Metaverse/app/enum/obj/Debug/net6.0/enum.csproj.CoreCompileInputs.cache
+/home/zeddy/Desktop/Metaverse/app/enum/obj/Debug/net6.0/enum.dll
+/home/zeddy/Desktop/Metaverse/app/enum/obj/Debug/net6.0/refint/enum.dll
+/home/zeddy/Desktop/Metaverse/app/enum/obj/Debug/net6.0/enum.pdb
+/home/zeddy/Desktop/Metaverse/app/enum/obj/Debug/net6.0/enum.genruntimeconfig.cache
+/home/zeddy/Desktop/Metaverse/app/enum/obj/Debug/net6.0/ref/enum.dll

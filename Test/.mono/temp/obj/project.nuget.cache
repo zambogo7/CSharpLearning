@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S24weFGhYXW1lqn8SbhxUivAmVtDy1e/fyRFwwMl2qv6wi5oBsZ+ZY3yHKbGmhf7sk5DKNvQE1GUYoTPxr2mkA==",
+  "success": true,
+  "projectFilePath": "/home/zeddy/Desktop/Metaverse/Test/Test.csproj",
+  "expectedPackageFiles": [
+    "/home/zeddy/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/zeddy/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

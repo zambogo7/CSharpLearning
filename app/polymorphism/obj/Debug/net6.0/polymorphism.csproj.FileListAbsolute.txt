@@ -1,0 +1,15 @@
+/home/zeddy/Desktop/Metaverse/app/polymorphism/obj/Debug/net6.0/polymorphism.csproj.AssemblyReference.cache
+/home/zeddy/Desktop/Metaverse/app/polymorphism/obj/Debug/net6.0/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeddy/Desktop/Metaverse/app/polymorphism/obj/Debug/net6.0/polymorphism.AssemblyInfoInputs.cache
+/home/zeddy/Desktop/Metaverse/app/polymorphism/obj/Debug/net6.0/polymorphism.AssemblyInfo.cs
+/home/zeddy/Desktop/Metaverse/app/polymorphism/obj/Debug/net6.0/polymorphism.csproj.CoreCompileInputs.cache
+/home/zeddy/Desktop/Metaverse/app/polymorphism/bin/Debug/net6.0/polymorphism
+/home/zeddy/Desktop/Metaverse/app/polymorphism/bin/Debug/net6.0/polymorphism.deps.json
+/home/zeddy/Desktop/Metaverse/app/polymorphism/bin/Debug/net6.0/polymorphism.runtimeconfig.json
+/home/zeddy/Desktop/Metaverse/app/polymorphism/bin/Debug/net6.0/polymorphism.dll
+/home/zeddy/Desktop/Metaverse/app/polymorphism/bin/Debug/net6.0/polymorphism.pdb
+/home/zeddy/Desktop/Metaverse/app/polymorphism/obj/Debug/net6.0/polymorphism.dll
+/home/zeddy/Desktop/Metaverse/app/polymorphism/obj/Debug/net6.0/refint/polymorphism.dll
+/home/zeddy/Desktop/Metaverse/app/polymorphism/obj/Debug/net6.0/polymorphism.pdb
+/home/zeddy/Desktop/Metaverse/app/polymorphism/obj/Debug/net6.0/polymorphism.genruntimeconfig.cache
+/home/zeddy/Desktop/Metaverse/app/polymorphism/obj/Debug/net6.0/ref/polymorphism.dll

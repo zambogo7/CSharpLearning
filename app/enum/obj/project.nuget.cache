@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SoTe+fLj7xoWsiKNb+yoKm+9Ziz28ef53ztmCaGPk9FbHmsDOnaozOQ50GZ32g3t5W19OVqsoJm4PT7wR8lDnQ==",
+  "success": true,
+  "projectFilePath": "/home/zeddy/Desktop/Metaverse/app/enum/enum.csproj",
+  "expectedPackageFiles": [
+    "/home/zeddy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

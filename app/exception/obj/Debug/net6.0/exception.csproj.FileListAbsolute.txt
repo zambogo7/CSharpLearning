@@ -1,0 +1,15 @@
+/home/zeddy/Desktop/Metaverse/app/exception/bin/Debug/net6.0/exception
+/home/zeddy/Desktop/Metaverse/app/exception/bin/Debug/net6.0/exception.deps.json
+/home/zeddy/Desktop/Metaverse/app/exception/bin/Debug/net6.0/exception.runtimeconfig.json
+/home/zeddy/Desktop/Metaverse/app/exception/bin/Debug/net6.0/exception.dll
+/home/zeddy/Desktop/Metaverse/app/exception/bin/Debug/net6.0/exception.pdb
+/home/zeddy/Desktop/Metaverse/app/exception/obj/Debug/net6.0/exception.csproj.AssemblyReference.cache
+/home/zeddy/Desktop/Metaverse/app/exception/obj/Debug/net6.0/exception.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeddy/Desktop/Metaverse/app/exception/obj/Debug/net6.0/exception.AssemblyInfoInputs.cache
+/home/zeddy/Desktop/Metaverse/app/exception/obj/Debug/net6.0/exception.AssemblyInfo.cs
+/home/zeddy/Desktop/Metaverse/app/exception/obj/Debug/net6.0/exception.csproj.CoreCompileInputs.cache
+/home/zeddy/Desktop/Metaverse/app/exception/obj/Debug/net6.0/exception.dll
+/home/zeddy/Desktop/Metaverse/app/exception/obj/Debug/net6.0/refint/exception.dll
+/home/zeddy/Desktop/Metaverse/app/exception/obj/Debug/net6.0/exception.pdb
+/home/zeddy/Desktop/Metaverse/app/exception/obj/Debug/net6.0/exception.genruntimeconfig.cache
+/home/zeddy/Desktop/Metaverse/app/exception/obj/Debug/net6.0/ref/exception.dll

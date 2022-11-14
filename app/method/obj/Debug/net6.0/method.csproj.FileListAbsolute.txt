@@ -1,0 +1,15 @@
+/home/zeddy/Desktop/Metaverse/app/method/bin/Debug/net6.0/method
+/home/zeddy/Desktop/Metaverse/app/method/bin/Debug/net6.0/method.deps.json
+/home/zeddy/Desktop/Metaverse/app/method/bin/Debug/net6.0/method.runtimeconfig.json
+/home/zeddy/Desktop/Metaverse/app/method/bin/Debug/net6.0/method.dll
+/home/zeddy/Desktop/Metaverse/app/method/bin/Debug/net6.0/method.pdb
+/home/zeddy/Desktop/Metaverse/app/method/obj/Debug/net6.0/method.csproj.AssemblyReference.cache
+/home/zeddy/Desktop/Metaverse/app/method/obj/Debug/net6.0/method.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeddy/Desktop/Metaverse/app/method/obj/Debug/net6.0/method.AssemblyInfoInputs.cache
+/home/zeddy/Desktop/Metaverse/app/method/obj/Debug/net6.0/method.AssemblyInfo.cs
+/home/zeddy/Desktop/Metaverse/app/method/obj/Debug/net6.0/method.csproj.CoreCompileInputs.cache
+/home/zeddy/Desktop/Metaverse/app/method/obj/Debug/net6.0/method.dll
+/home/zeddy/Desktop/Metaverse/app/method/obj/Debug/net6.0/refint/method.dll
+/home/zeddy/Desktop/Metaverse/app/method/obj/Debug/net6.0/method.pdb
+/home/zeddy/Desktop/Metaverse/app/method/obj/Debug/net6.0/method.genruntimeconfig.cache
+/home/zeddy/Desktop/Metaverse/app/method/obj/Debug/net6.0/ref/method.dll

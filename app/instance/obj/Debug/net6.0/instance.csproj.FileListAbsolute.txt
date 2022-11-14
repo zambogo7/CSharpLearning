@@ -1,0 +1,15 @@
+/home/zeddy/Desktop/Metaverse/app/instance/obj/Debug/net6.0/instance.csproj.AssemblyReference.cache
+/home/zeddy/Desktop/Metaverse/app/instance/obj/Debug/net6.0/instance.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeddy/Desktop/Metaverse/app/instance/obj/Debug/net6.0/instance.AssemblyInfoInputs.cache
+/home/zeddy/Desktop/Metaverse/app/instance/obj/Debug/net6.0/instance.AssemblyInfo.cs
+/home/zeddy/Desktop/Metaverse/app/instance/obj/Debug/net6.0/instance.csproj.CoreCompileInputs.cache
+/home/zeddy/Desktop/Metaverse/app/instance/bin/Debug/net6.0/instance
+/home/zeddy/Desktop/Metaverse/app/instance/bin/Debug/net6.0/instance.deps.json
+/home/zeddy/Desktop/Metaverse/app/instance/bin/Debug/net6.0/instance.runtimeconfig.json
+/home/zeddy/Desktop/Metaverse/app/instance/bin/Debug/net6.0/instance.dll
+/home/zeddy/Desktop/Metaverse/app/instance/bin/Debug/net6.0/instance.pdb
+/home/zeddy/Desktop/Metaverse/app/instance/obj/Debug/net6.0/instance.dll
+/home/zeddy/Desktop/Metaverse/app/instance/obj/Debug/net6.0/refint/instance.dll
+/home/zeddy/Desktop/Metaverse/app/instance/obj/Debug/net6.0/instance.pdb
+/home/zeddy/Desktop/Metaverse/app/instance/obj/Debug/net6.0/instance.genruntimeconfig.cache
+/home/zeddy/Desktop/Metaverse/app/instance/obj/Debug/net6.0/ref/instance.dll

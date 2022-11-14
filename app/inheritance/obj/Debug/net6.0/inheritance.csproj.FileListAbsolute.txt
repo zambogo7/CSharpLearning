@@ -1,0 +1,15 @@
+/home/zeddy/Desktop/Metaverse/app/inheritance/bin/Debug/net6.0/inheritance
+/home/zeddy/Desktop/Metaverse/app/inheritance/bin/Debug/net6.0/inheritance.deps.json
+/home/zeddy/Desktop/Metaverse/app/inheritance/bin/Debug/net6.0/inheritance.runtimeconfig.json
+/home/zeddy/Desktop/Metaverse/app/inheritance/bin/Debug/net6.0/inheritance.dll
+/home/zeddy/Desktop/Metaverse/app/inheritance/bin/Debug/net6.0/inheritance.pdb
+/home/zeddy/Desktop/Metaverse/app/inheritance/obj/Debug/net6.0/inheritance.csproj.AssemblyReference.cache
+/home/zeddy/Desktop/Metaverse/app/inheritance/obj/Debug/net6.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeddy/Desktop/Metaverse/app/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfoInputs.cache
+/home/zeddy/Desktop/Metaverse/app/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfo.cs
+/home/zeddy/Desktop/Metaverse/app/inheritance/obj/Debug/net6.0/inheritance.csproj.CoreCompileInputs.cache
+/home/zeddy/Desktop/Metaverse/app/inheritance/obj/Debug/net6.0/inheritance.dll
+/home/zeddy/Desktop/Metaverse/app/inheritance/obj/Debug/net6.0/refint/inheritance.dll
+/home/zeddy/Desktop/Metaverse/app/inheritance/obj/Debug/net6.0/inheritance.pdb
+/home/zeddy/Desktop/Metaverse/app/inheritance/obj/Debug/net6.0/inheritance.genruntimeconfig.cache
+/home/zeddy/Desktop/Metaverse/app/inheritance/obj/Debug/net6.0/ref/inheritance.dll
