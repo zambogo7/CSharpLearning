@@ -1,1 +1,12 @@
 $ sudo apt install aspnetcore-runtime-6.0=6.0.8-1 dotnet-apphost-pack-6.0=6.0.8-1 dotnet-host=6.0.8-1 dotnet-hostfxr-6.0=6.0.8-1 dotnet-runtime-6.0=6.0.8-1 dotnet-sdk-6.0=6.0.400-1 dotnet-targeting-pack-6.0=6.0.8-1
+
+
+
+
+unity fix "the only standalone target supported is windows x64". 
+
+Your build platform probably is still at macOS/Linux.
+Make sure to go to File -> Build Settings
+Here set the platform to Windows and set the target architecture to x64.
+
+Android (Oculus Quest/ Five Focus) also should be supported. For that switch the platform to Android in the same window and set the texture compression to ASTC. For android you need to go to Edit -> Project Settings -> Player -> Other. There set scripting backend to IL2CPP and tick ARM64 
